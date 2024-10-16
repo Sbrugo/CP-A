@@ -1,0 +1,24 @@
+:root{
+  --fondo: "#F5F5F5";
+  --blanco: "#FFFFFF";
+  --azul: "#242C4F";
+  --amarillo: "#E7BA61";
+  --danger: "#9C1F1F";
+  --arandano: "#C2185B";
+  --mora: "#670067";
+  --violeta: "#5639D5";
+  --verdeMarino: "#006366";
+  --verdeSuccess: "#266429";
+  --celesteMiArgentina: "#56BBEE";
+  --fondoCeleste: "#F3FAFF";
+  --texto: "#333333";
+  --textoSecundario: "#555";
+  --información: "#0072BB";
+
+}
+
+.primary-card {
+    background-color: var(--blanco);
+    color: var(--texto);
+    padding: 20px;
+  }
